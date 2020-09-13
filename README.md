@@ -1,9 +1,9 @@
 ### Hey, I am Felipe Fragoso! 👋
 
-👾 Game Developer
-💻 Freelancer Full Stack Developer
-:br: From Santos, Brazil
-:dK: Based in Viborg, Denmark
+👾 Game Developer<br>
+💻 Freelancer Full Stack Developer<br>
+:br: From Santos, Brazil<br>
+:dK: Based in Viborg, Denmark<br>
 
 ### What I am working on 👨‍💻
 
@@ -14,9 +14,9 @@
 
 ### Find me elsewhere 🌎
 
-🚀 <a href="http://fdfragoso.github.io/">Site</a>
-💼 <a href="https://www.linkedin.com/in/fdfragoso">LinkedIn</a>
-🐦 <a href="https://www.twitter.com/fdfragoso">Twitter</a>
+🚀 <a href="http://fdfragoso.github.io/">Site</a><br>
+💼 <a href="https://www.linkedin.com/in/fdfragoso">LinkedIn</a><br>
+🐦 <a href="https://www.twitter.com/fdfragoso">Twitter</a><br>
 
 <!--
 **fdfragoso/fdfragoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
