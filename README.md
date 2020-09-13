@@ -1,9 +1,26 @@
-### Hi there 👋
+### Hey, I am Felipe Fragoso! 👋
+
+👾 Game Developer
+💻 Freelancer Full Stack Developer
+:br: From Santos, Brazil
+:dK: Based in Viborg, Denmark
+
+### What I am working on 👨‍💻
+
+- <a href="https://www.theforestquartet.org/">The Forest Quartet Game</a>
+- The Chicken Coup
+- <a href="https://www.microverse.org/">Microverse</a> and <a href="https://www.theodinproject.com/home">The Odin Projects</a>
+- Blender Tools
+
+### Find me elsewhere 🌎
+
+🚀 <a href="http://fdfragoso.github.io/">Site</a>
+💼 <a href="https://www.linkedin.com/in/fdfragoso">LinkedIn</a>
+🐦 <a href="https://www.twitter.com/fdfragoso">Twitter</a>
 
 <!--
 **fdfragoso/fdfragoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
