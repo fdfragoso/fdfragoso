@@ -2,8 +2,9 @@
 
 👾 Game Developer<br>
 💻 Freelancer Full Stack Developer<br>
-:br: From Santos, Brazil<br>
-:dK: Based in Viborg, Denmark<br>
+
+From Santos, Brazil<br>
+Based in Viborg, Denmark<br>
 
 ### What I am working on 👨‍💻
 
