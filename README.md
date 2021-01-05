@@ -8,10 +8,10 @@ Based in Viborg, Denmark<br>
 
 ### What I am working on 👨‍💻
 
+- Lego Super Mario
 - <a href="https://www.theforestquartet.org/">The Forest Quartet Game</a>
-- The Chicken Coup
 - <a href="https://www.microverse.org/">Microverse</a> and <a href="https://www.theodinproject.com/home">The Odin Projects</a>
-- Blender Tools
+- Reverse Perspective for a short movie
 
 ### Find me elsewhere 🌎
 
