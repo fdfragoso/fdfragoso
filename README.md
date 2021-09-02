@@ -8,10 +8,9 @@ Based in Viborg, Denmark<br>
 
 ### What I am working on 👨‍💻
 
+- Toca Boca Life World
 - Lego Super Mario
 - <a href="https://www.theforestquartet.org/">The Forest Quartet Game</a>
-- <a href="https://www.microverse.org/">Microverse</a> and <a href="https://www.theodinproject.com/home">The Odin Projects</a>
-- Reverse Perspective for a short movie
 
 ### Find me elsewhere 🌎
 
