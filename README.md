@@ -6,7 +6,17 @@
 From Santos, Brazil<br>
 Based in Viborg, Denmark<br>
 
-### What I am working on 👨‍💻
+### Currently working on 🔭
+
+- <a href="https://www.tollan.io/">Tollan Worlds</a> 
+
+### I'm currently learning 🌱
+
+- Building my own Game Engine in C++
+- C++
+- OpenGL
+
+### Past projects 👨‍💻
 
 - Toca Boca Life World
 - Lego Super Mario
