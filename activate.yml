@@ -1,0 +1,21 @@
+name: Activate Unity License
+
+on:
+  workflow_dispatch:
+
+jobs:
+  activate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: game-ci/unity-activate@v2
+        env:
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+
+      - name: Upload license file
+        uses: actions/upload-artifact@v4
+        with:
+          name: unity-license
+          path: /home/runner/.local/share/unity3d/Unity/Unity_lic.ulf
