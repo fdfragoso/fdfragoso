@@ -9,13 +9,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: game-ci/unity-activate@v2
+      - name: Request manual activation file
+        uses: game-ci/unity-request-activation-file@v2
+        id: request
         env:
-          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
-          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+          UNITY_VERSION: 6000.3.16f1
 
-      - name: Upload license file
+      - name: Upload activation file
         uses: actions/upload-artifact@v4
         with:
-          name: unity-license
-          path: /home/runner/.local/share/unity3d/Unity/Unity_lic.ulf
+          name: unity-activation-file
+          path: ${{ steps.request.outputs.filePath }}
